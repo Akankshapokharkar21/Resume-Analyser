@@ -10,7 +10,7 @@ const User = require("../Models/User");
 
 
 const cohere = new CohereClient({
-    token: "dYCGyf6HebUy7DlyC2XMuEEbMYwICQOkXgGgXAMA"
+    token: ""
 });
 
 exports.addResume = async (req, res) => {
