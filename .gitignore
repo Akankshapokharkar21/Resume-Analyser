@@ -1,0 +1,21 @@
+# Node
+node_modules/
+ResumeScorer/node_modules/
+mern_ai/node_modules/
+backend_ai/node_modules/
+
+# Env files
+.env
+ResumeScorer/.env
+mern_ai/.env
+backend_ai/.env
+
+# Build files
+ResumeScorer/build/
+mern_ai/build/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
