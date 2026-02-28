@@ -11,9 +11,8 @@ The system analyzes resume content and calculates similarity scores to determine
 - 📝 Enter Job Description
 - 📊 Resume & Job Description Matching
 - 📈 Similarity Score Calculation
-- 🏆 Ranking Based on Match Percentage
-- 🔐 User Authentication (if implemented)
-- ☁️ Cloud-based storage (if using Cloudinary)
+- 🔐 User Authentication 
+- ☁️ Cloud-based storage
 - 📱 Responsive UI
 
 ---
